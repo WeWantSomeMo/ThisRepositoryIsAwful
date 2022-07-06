@@ -1,2 +1,2 @@
 # ThisRidiculousQuiz
-#We trying to get this to work.
+This Quiz is so wild and crazy. You won't be able to handle itt!
